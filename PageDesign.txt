@@ -30,4 +30,4 @@ Include a contact form where visitors can send inquiries directly from the websi
 
 Footer:
 Add a footer section at the bottom of the page with links to important pages, such as Home, Services, Rentals, About Us, Contact, Privacy Policy, etc.
-Include social media icons that link to your company's social media profiles.
+Include social media icons that link to your company's social media profiles..

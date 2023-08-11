@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
       var targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
       var startPosition = window.pageYOffset;
       var distance = targetPosition - startPosition;
-      var duration = 800; // Duration of the smooth scroll animation in milliseconds
+      var duration = 800; // Duration of the smooth scroll animation in milliseconds.
       var startTimestamp = null;
   
       function animateScroll(timestamp) {
