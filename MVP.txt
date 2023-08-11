@@ -32,11 +32,11 @@ Adding a "Share" feature that allows users to share their booking on social medi
 
 About Us:
 Create a simple page that provides an overview of my picnic rental company.
-Include information about my experience, expertise, and what sets you apart from competitors.
-Highlight any certifications, awards, or notable achievements related to your business.
+Include information about my experience, expertise, and what sets us apart from competitors.
+Highlight any certifications, awards, or notable achievements related to my business.
 
 Contact Page:
-Develop a contact page with your company's contact information, including phone number, email address, and physical address if applicable.
+Develop a contact page with my company's contact information, including phone number, email address, and physical address if applicable.
 Implement a contact form that allows users to send inquiries or requests for more information.
 
 Data Model:
