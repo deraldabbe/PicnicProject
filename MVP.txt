@@ -9,7 +9,7 @@ Add a prominent call-to-action button to encourage users to explore more or proc
 Include a navigation menu with links to essential pages like Rentals, About Us, and Contact.
 
 Rentals Page:
-Create a page that displays the rental items I offer, such as picnic tables, chairs, umbrellas, grills, etc.
+Create a page that displays the rental items I offer, such as picnic tables, chairs, umbrellas, grills, along with a search bar, etc.
 Include high-quality images of each rental item along with their names and brief descriptions.
 Display pricing information for each item or provide a "Request a Quote" button that allows users to inquire about prices.
 Rental Details:

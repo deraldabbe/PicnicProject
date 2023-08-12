@@ -1,0 +1,55 @@
+App
+├── Header
+│   ├── Logo
+│   ├── Navigation
+│   │   ├── NavLink (Rentals)
+│   │   ├── NavLink (About Us)
+│   │   ├── NavLink (Contact)
+├── LandingPage
+│   ├── HeroSection
+│   ├── FeatureSection
+│   ├── CTASection
+├── RentalsPage
+│   ├── Header
+│   ├── SearchBar
+│   ├── CategoryFilters
+│   ├── RentalItemList
+│   │   ├── RentalItemCard (Item 1)
+│   │   ├── RentalItemCard (Item 2)
+│   │   ├── ...
+├── RentalDetailsPage
+│   ├── Header
+│   ├── RentalItemDetails
+│   ├── BookingForm
+│   │   ├── DatePicker
+│   │   ├── QuantitySelector
+│   │   ├── ContactForm
+├── BookingProcessPage
+│   ├── Header
+│   ├── StepsIndicator
+│   ├── ItemSelectionStep
+│   ├── DateSelectionStep
+│   ├── SummaryStep
+│   ├── UserInformationStep
+├── ConfirmationPage
+│   ├── Header
+│   ├── ConfirmationMessage
+│   ├── NextSteps
+│   ├── ShareButtons
+├── AboutUsPage
+│   ├── Header
+│   ├── CompanyOverview
+│   ├── ExpertiseSection
+│   ├── AwardsSection
+├── ContactPage
+│   ├── Header
+│   ├── ContactInfo
+│   ├── ContactForm
+│   ├── SocialMediaLinks
+└── Footer
+    ├── Navigation
+    │   ├── NavLink (Rentals)
+    │   ├── NavLink (About Us)
+    │   ├── NavLink (Contact)
+    
+    ├── CalendarModal (for selecting booking dates)
